@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "now-build": "next build"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/webpack-asset-relocator-loader": "^0.4.5",
+    "firebase": "^5.11.1",
+    "next": "^8.1.1-canary.37",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
